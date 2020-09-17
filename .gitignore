@@ -1,0 +1,5 @@
+Makefile
+multimediatags
+*.d
+*.o
+*.db
